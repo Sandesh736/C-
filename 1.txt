@@ -1,0 +1,22 @@
+int main()
+{
+    int i;
+    int j;
+    
+    //char ch='A';
+    for(i='A';i<='E';i++){
+        
+    
+    
+        for(j='A';j<=i;j++){
+                //ch++;
+            printf("%c",i);
+                
+            
+        }
+        printf("\n");
+    }
+    
+
+    return 0;
+}
